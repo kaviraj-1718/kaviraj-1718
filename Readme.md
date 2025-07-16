@@ -1,11 +1,9 @@
-<!-- HERO SECTION -->
 <h1 align="center">👋 Hey there, I'm <strong>Kaviraj K R</strong></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Aspiring%20Developer-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solver-yellow?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20AI/ML-purple?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Somanur,%20TamilNadu-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
+  🎯 Aspiring Developer & Passionate Problem Solver <br/>
+  🎓 B.Tech in AI & ML <br/>
+  📍 Somanur, Tamil Nadu, India
 </p>
 
 ---
