@@ -26,8 +26,8 @@ I'm a motivated student developer with a deep passion for C++ programming and we
 </span>
 
 **Currently exploring:**  
-- Data Structures & Algorithms in C++  
-- Creative full-stack web applications  
+- Problem Solving in C++  
+- Creative web applications  
 - Open-source project contributions  
 
 ---
