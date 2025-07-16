@@ -23,10 +23,9 @@ and knowledge necessary to excel in these fields.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </span>
 
-**Currently experimenting with:**  
-- Modern front-end libraries  
+**Currently experimenting with:**   
 - Creative project ideas  
-- Problem-solving with Python
+- Problem-solving with C++
 
 ---
 
