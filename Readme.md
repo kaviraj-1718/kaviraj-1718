@@ -7,8 +7,10 @@
 <!-- ABOUT ME -->
 ## 🚀 About Me
 
-I’m an enthusiastic junior developer from Bannari Amman Institute of Technology, passionate about crafting engaging web projects. My journey spans interactive web apps, dynamic interfaces, and exploratory projects—powered by curiosity and a drive to learn. Whether it’s building from scratch or experimenting with new tools, I love turning ideas into real, usable code.
-
+I am a highly motivated student deeply committed to
+advancing my career, with a strong passion for C++
+programming. I am dedicated to acquiring the skills
+and knowledge necessary to excel in these fields.
 ---
 
 <!-- TECH STACK -->
