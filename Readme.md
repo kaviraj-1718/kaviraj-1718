@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 # 👋 Hi, I'm **Kaviraj K R**
-### Aspiring Developer • Builder of Interactive Web Experiences
+### Aspiring Developer
 
 ---
 
