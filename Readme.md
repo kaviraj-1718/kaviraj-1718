@@ -11,7 +11,7 @@
 <!-- ABOUT ME -->
 ## 🚀 About Me
 
-I'm a motivated student developer with a deep passion for C++ programming and web development. With a curious mind and a strong drive to learn, I strive to build practical solutions and meaningful digital experiences. Whether it's optimizing logic in C++ or crafting modern web interfaces, I enjoy turning ideas into reality through code.
+I am a motivated B.Tech graduate in Artificial Intelligence and Machine Learning from Bannari Amman Institute of Technology. I have a strong academic foundation and practical experience gained through various projects. I enjoy learning new technologies and continuously improving my technical and professional skills.
 
 ---
 
