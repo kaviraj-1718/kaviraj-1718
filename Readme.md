@@ -40,7 +40,7 @@ I enjoy:
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -85,7 +85,7 @@ I enjoy:
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 **Git · GitHub · VS Code · Jupyter Notebook · Google Colab · Postman**
@@ -94,57 +94,60 @@ I enjoy:
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 📚 Learning Management System
 
-### 📚 Learning Management System
+### 🔐 MERN Stack · Role-Based Access Control
 
-**MERN Stack · Role-Based Access Control**
+A full-stack **Learning Management System** designed to manage online learning with separate access levels for **Admin, Instructor, and Student**.
 
-</div>
-
-A full-stack Learning Management System designed to manage online learning with separate access levels for **Admin, Instructor, and Student**.
-
-✨ **Key Features**
+### ✨ Key Features
 
 - 🔐 Role-based access control
 - 👨‍💼 Admin, Instructor & Student workflows
 - 📚 Course and content management
 - 👥 User permission management
 - 📊 Responsive dashboards
-- 🌐 Full-stack MERN architecture
+- 💻 Full-stack MERN architecture
+- 🧑‍💻 Real-time coding practice
+- 🛡️ Plagiarism detection functionality
 
-🛠️ **Tech Stack:** MongoDB · Express.js · React · Node.js
+### 🛠️ Tech Stack
+
+`MongoDB` · `Express.js` · `React` · `Node.js`
 
 🔗 **[View Repository →](YOUR_LMS_REPOSITORY_LINK)**
 
 ---
 
-<div align="center">
+## 🩺 Diabetes Risk Prediction System
 
-### 🩺 Diabetes Risk Prediction System
+### 🤖 Python · Machine Learning · Streamlit
 
-**Python · Machine Learning · Streamlit**
+A machine learning application that predicts **diabetes risk based on user-provided health parameters**.
 
-</div>
-
-A machine learning application that predicts diabetes risk based on user-provided health parameters.
-
-✨ **Key Features**
+### ✨ Key Features
 
 - 📝 Health data input and validation
 - 🧹 Data preprocessing
-- 🤖 Machine learning model training
-- 📊 Model evaluation
-- ⚡ Instant prediction
+- 🤖 Multiple machine learning models
+- 📊 Model evaluation and comparison
+- ⚡ Diabetes risk prediction
 - 🖥️ Interactive Streamlit interface
 
-🛠️ **Tech Stack:** Python · Pandas · Scikit-learn · XGBoost · Streamlit
+### 🧠 Machine Learning Models
+
+- 📈 Logistic Regression
+- 🎯 K-Nearest Neighbors
+- 🧮 Support Vector Machine
+- 🌳 Decision Tree
+- 🌲 Random Forest
+- 🚀 XGBoost
+
+### 🛠️ Tech Stack
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Streamlit`
 
 🔗 **[View Repository →](YOUR_DIABETES_REPOSITORY_LINK)**
-
----
-
-<div align="center">
 
 ---
 
@@ -156,7 +159,7 @@ A machine learning application that predicts diabetes risk based on user-provide
 
 **Bannari Amman Institute of Technology**
 
-📅 2022 – 2026 &nbsp; | &nbsp; 📊 **CGPA: 8.44**
+📅 **2022 – 2026** &nbsp; | &nbsp; 📊 **CGPA: 8.44**
 
 </div>
 
@@ -165,16 +168,18 @@ A machine learning application that predicts diabetes risk based on user-provide
 # 📜 Certifications
 
 ### 🧠 Introduction to Machine Learning
+
 **NPTEL — IIT**
 
-🏅 Score: **63%**
+🏅 **Score: 63%**
 
 ---
 
 ### 🐍 The Joy of Computing Using Python
+
 **NPTEL — IIT**
 
-🏅 Score: **68%**
+🏅 **Score: 68%**
 
 ---
 
@@ -201,6 +206,7 @@ A machine learning application that predicts diabetes risk based on user-provide
 # 💼 Internship Experience
 
 ### 🐍 Python Programming Intern
+
 **CodSoft**
 
 - 💻 Worked on practical Python programming tasks
@@ -210,6 +216,7 @@ A machine learning application that predicts diabetes risk based on user-provide
 ---
 
 ### 🎨 UI/UX Design Intern
+
 **ZetPeak**
 
 - 🖌️ Worked on interface design concepts
@@ -242,9 +249,57 @@ A machine learning application that predicts diabetes risk based on user-provide
 
 # 🌱 Currently Learning
 
-```text
-🐍 Advanced Python
-🧩 Data Structures & Algorithms
-🌐 Full-Stack Web Development
-🤖 Machine Learning
-☁️ Deployment & Cloud Technologies
+<div align="center">
+
+| 🐍 Python | 🧩 DSA | 🌐 Full Stack | 🤖 Machine Learning | ☁️ Cloud |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+### 🎯 Current Focus
+
+- 🐍 Improving advanced Python skills
+- 🧩 Strengthening Data Structures & Algorithms
+- 🌐 Building full-stack web applications
+- 🤖 Deepening Machine Learning knowledge
+- ☁️ Exploring deployment and cloud technologies
+
+---
+
+# 🎯 Career Focus
+
+> **Building practical software, solving real-world problems, and continuously improving as a developer.**
+
+I'm currently open to:
+
+💼 **Entry-Level Software Developer Roles**  
+🐍 **Python Developer Roles**  
+🌐 **Web Developer Roles**  
+🤖 **Machine Learning Opportunities**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with developers, recruiters, and people
+working on interesting technology projects.
+
+<br>
+
+📧 **Email:** [kaviraj.rajendran.kr@gmail.com](mailto:kaviraj.rajendran.kr@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/kaviraj18](https://linkedin.com/in/kaviraj18)
+
+🌐 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_LINK)
+
+🐙 **GitHub:** [github.com/kaviraj-1718](https://github.com/kaviraj-1718)
+
+<br>
+
+### 🚀 *Let's build something useful together!*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
