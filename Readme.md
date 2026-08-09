@@ -146,44 +146,6 @@ A machine learning application that predicts diabetes risk based on user-provide
 
 <div align="center">
 
-### 📅 Calendar App
-
-**JavaScript**
-
-</div>
-
-An interactive calendar web application built using vanilla JavaScript with dynamic rendering, navigation, and event handling.
-
-✨ **Highlights**
-
-- 📆 Dynamic calendar rendering
-- ⏮️ Previous / next month navigation
-- 🖱️ Interactive user interface
-- ⚡ Vanilla JavaScript implementation
-
-🔗 **[View Repository →](https://github.com/kaviraj-1718/calendar-app)**
-
----
-
-<div align="center">
-
-### 🌐 WEGUIDE
-
-**HTML · CSS**
-
-</div>
-
-A responsive educational platform providing structured learning resources for programming and development concepts.
-
-✨ **Highlights**
-
-- 📚 Organized learning content
-- 📱 Responsive layout
-- ♿ Semantic HTML structure
-- 🎨 Clean and simple interface
-
-🔗 **[View Repository →](https://github.com/kaviraj-1718/WEGUIDE-)**
-
 ---
 
 # 🎓 Education
