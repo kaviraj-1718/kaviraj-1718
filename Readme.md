@@ -36,7 +36,7 @@ I enjoy:
 - 🤖 Exploring Machine Learning and AI
 - 🚀 Learning new technologies and improving my development skills
 
-🎯 **Currently looking for:** Entry-level Software Developer / Python Developer opportunities.
+🎯 **Currently focused on:** Python · Web Development · Machine Learning
 
 ---
 
@@ -65,10 +65,10 @@ I enjoy:
 ### 🤖 Machine Learning & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**NumPy · Pandas · Scikit-learn · Matplotlib · TensorFlow**
+**NumPy · Pandas · Scikit-learn · Matplotlib · TensorFlow · XGBoost**
 
 ---
 
@@ -136,92 +136,13 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 ### 🧠 Machine Learning Models
 
-- 📈 Logistic Regression
-- 🎯 K-Nearest Neighbors
-- 🧮 Support Vector Machine
-- 🌳 Decision Tree
-- 🌲 Random Forest
-- 🚀 XGBoost
+`Logistic Regression` · `KNN` · `SVM` · `Decision Tree` · `Random Forest` · `XGBoost`
 
 ### 🛠️ Tech Stack
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Streamlit`
 
 🔗 **[View Repository →](YOUR_DIABETES_REPOSITORY_LINK)**
-
----
-
-# 🎓 Education
-
-<div align="center">
-
-### 🎓 B.Tech — Artificial Intelligence & Machine Learning
-
-**Bannari Amman Institute of Technology**
-
-📅 **2022 – 2026** &nbsp; | &nbsp; 📊 **CGPA: 8.44**
-
-</div>
-
----
-
-# 📜 Certifications
-
-### 🧠 Introduction to Machine Learning
-
-**NPTEL — IIT**
-
-🏅 **Score: 63%**
-
----
-
-### 🐍 The Joy of Computing Using Python
-
-**NPTEL — IIT**
-
-🏅 **Score: 68%**
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-## 🥈 2nd Place — "Pitch For Tomorrow"
-
-**E-Horizon 2K26 · Kongu Engineering College**
-
-</div>
-
-💡 Secured **2nd place** in the innovation pitching competition organized by the **Indian Entrepreneurship Foundation**.
-
-### 🎯 Competitions & Events
-
-- 🚀 **E-SUMMIT** — IIT BHU
-- 💡 **Lumos Innovate-A-thon**
-- 🧑‍💻 **NCICT** — Anna University
-
----
-
-# 💼 Internship Experience
-
-### 🐍 Python Programming Intern
-
-**CodSoft**
-
-- 💻 Worked on practical Python programming tasks
-- 🧠 Strengthened programming and problem-solving skills
-- 🛠️ Applied Python concepts to practical assignments
-
----
-
-### 🎨 UI/UX Design Intern
-
-**ZetPeak**
-
-- 🖌️ Worked on interface design concepts
-- 🎯 Applied UI/UX principles to practical design tasks
-- 💡 Gained experience in user-focused design
 
 ---
 
@@ -251,31 +172,17 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-| 🐍 Python | 🧩 DSA | 🌐 Full Stack | 🤖 Machine Learning | ☁️ Cloud |
-|:---:|:---:|:---:|:---:|:---:|
+### 🐍 Python &nbsp; • &nbsp; 🧩 DSA &nbsp; • &nbsp; 🌐 Full Stack &nbsp; • &nbsp; 🤖 Machine Learning &nbsp; • &nbsp; ☁️ Cloud
 
 </div>
 
 ### 🎯 Current Focus
 
-- 🐍 Improving advanced Python skills
+- 🐍 Improving Python and problem-solving skills
 - 🧩 Strengthening Data Structures & Algorithms
 - 🌐 Building full-stack web applications
 - 🤖 Deepening Machine Learning knowledge
 - ☁️ Exploring deployment and cloud technologies
-
----
-
-# 🎯 Career Focus
-
-> **Building practical software, solving real-world problems, and continuously improving as a developer.**
-
-I'm currently open to:
-
-💼 **Entry-Level Software Developer Roles**  
-🐍 **Python Developer Roles**  
-🌐 **Web Developer Roles**  
-🤖 **Machine Learning Opportunities**
 
 ---
 
