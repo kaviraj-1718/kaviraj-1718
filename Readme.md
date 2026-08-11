@@ -204,7 +204,7 @@ working on interesting technology projects.
 [linkedin.com/in/kaviraj18](https://linkedin.com/in/kaviraj18)
 
 🌐 **Portfolio:**  
-[View My Portfolio](https://github.com/kaviraj-1718)
+[View My Portfolio](https://kaviraj-portfolio.vercel.app)
 
 🐙 **GitHub:**  
 [github.com/kaviraj-1718](https://github.com/kaviraj-1718)
