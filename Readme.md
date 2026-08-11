@@ -150,9 +150,9 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaviraj-1718&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kaviraj-1718&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj-1718&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj-1718&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -162,7 +162,7 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraj-1718&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kaviraj-1718&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -190,7 +190,7 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-I'm always open to connecting with developers, recruiters, and people
+I'm always open to connecting with developers, recruiters, and people  
 working on interesting technology projects.
 
 <br>
