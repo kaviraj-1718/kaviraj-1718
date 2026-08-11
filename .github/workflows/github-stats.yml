@@ -2,11 +2,14 @@ name: Update GitHub Statistics
 
 on:
   schedule:
+    # Every day at 8:30 AM IST
     - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
   push:
     paths:
       - ".github/workflows/github-stats.yml"
-  workflow_dispatch:
 
 concurrency:
   group: profile-stats-update
@@ -22,8 +25,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -39,7 +44,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit GitHub Statistics
+      - name: Commit statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -48,4 +53,4 @@ jobs:
 
           git commit -m "Update GitHub statistics" || exit 0
 
-          git push
+          git push origin HEAD:main
