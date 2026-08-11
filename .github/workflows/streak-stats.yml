@@ -3,13 +3,13 @@ name: Update Streak Stats
 on:
   schedule:
     - cron: "30 3 * * *"
+
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
+
   workflow_dispatch:
 
-# Prevent GitHub Statistics and Streak Stats
-# from pushing to main at the same time.
 concurrency:
   group: profile-stats-update
   cancel-in-progress: false
@@ -23,13 +23,16 @@ jobs:
 
     steps:
 
-      # 1. Get the latest version of main
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
-      # 2. Generate streak statistics
+      - name: Sync with latest main
+        run: |
+          git fetch origin main
+          git rebase origin/main
+
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -37,13 +40,6 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Update local repository with latest remote changes
-      - name: Sync with latest main
-        run: |
-          git fetch origin main
-          git rebase origin/main
-
-      # 4. Commit generated SVG
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
@@ -53,7 +49,6 @@ jobs:
 
           git commit -m "Update streak stats" || exit 0
 
-      # 5. Push updated SVG
       - name: Push changes
         run: |
           git push origin HEAD:main
