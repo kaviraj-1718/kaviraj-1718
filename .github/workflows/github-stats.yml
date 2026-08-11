@@ -3,12 +3,14 @@ name: Update GitHub Statistics
 on:
   schedule:
     - cron: "0 3 * * *"
-
-  workflow_dispatch:
-
   push:
     paths:
       - ".github/workflows/github-stats.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-stats-update
+  cancel-in-progress: false
 
 jobs:
   build:
