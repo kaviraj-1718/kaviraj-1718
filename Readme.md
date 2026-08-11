@@ -8,9 +8,11 @@
   <a href="https://github.com/kaviraj-1718">
     <img src="https://img.shields.io/badge/GitHub-kaviraj--1718-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/kaviraj18">
     <img src="https://img.shields.io/badge/LinkedIn-Kaviraj%20K%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:kaviraj.rajendran.kr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -115,7 +117,7 @@ A full-stack **Learning Management System** designed to manage online learning w
 
 `MongoDB` · `Express.js` · `React` · `Node.js`
 
-🔗 **[View Repository →](YOUR_LMS_REPOSITORY_LINK)**
+🔗 **[View Repository →](https://github.com/kaviraj-1718/LMS1)**
 
 ---
 
@@ -142,7 +144,7 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Streamlit`
 
-🔗 **[View Repository →](YOUR_DIABETES_REPOSITORY_LINK)**
+🔗 **[View GitHub Projects →](https://github.com/kaviraj-1718?tab=repositories)**
 
 ---
 
@@ -150,9 +152,9 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaviraj-1718&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+<img src="./profile/stats.svg" height="170" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj-1718&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 
 </div>
 
@@ -162,7 +164,7 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaviraj-1718&theme=tokyonight&hide_border=true" />
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -195,13 +197,17 @@ working on interesting technology projects.
 
 <br>
 
-📧 **Email:** [kaviraj.rajendran.kr@gmail.com](mailto:kaviraj.rajendran.kr@gmail.com)
+📧 **Email:**  
+[kaviraj.rajendran.kr@gmail.com](mailto:kaviraj.rajendran.kr@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/kaviraj18](https://linkedin.com/in/kaviraj18)
+💼 **LinkedIn:**  
+[linkedin.com/in/kaviraj18](https://linkedin.com/in/kaviraj18)
 
-🌐 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_LINK)
+🌐 **Portfolio:**  
+[View My Portfolio](https://github.com/kaviraj-1718)
 
-🐙 **GitHub:** [github.com/kaviraj-1718](https://github.com/kaviraj-1718)
+🐙 **GitHub:**  
+[github.com/kaviraj-1718](https://github.com/kaviraj-1718)
 
 <br>
 
