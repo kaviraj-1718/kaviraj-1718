@@ -169,16 +169,16 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <a href="https://github.com/kaviraj-1718">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a>&nbsp;
 <a href="https://linkedin.com/in/kaviraj18">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>&nbsp;
 <a href="mailto:kaviraj.rajendran.kr@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>&nbsp;
 <a href="https://www.instagram.com/___.kaviraj.___">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a>&nbsp;
 <a href="https://kaviraj-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
