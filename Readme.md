@@ -160,24 +160,25 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 <div align="center">
 
-I'm always open to connecting with developers, recruiters, and people  
-working on interesting technology projects.
+<p>I'm always open to connecting with developers, recruiters, and people<br>
+working on interesting technology projects.</p>
 
 <br>
 
-📧 **Email:**  
-[kaviraj.rajendran.kr@gmail.com](mailto:kaviraj.rajendran.kr@gmail.com)
+<a href="https://github.com/kaviraj-1718">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/kaviraj18">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kaviraj.rajendran.kr@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://kaviraj-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-💼 **LinkedIn:**  
-[linkedin.com/in/kaviraj18](https://linkedin.com/in/kaviraj18)
-
-🌐 **Portfolio:**  
-[View My Portfolio](https://kaviraj-portfolio.vercel.app)
-
-🐙 **GitHub:**  
-[github.com/kaviraj-1718](https://github.com/kaviraj-1718)
-
-<br>
+<br><br>
 
 ### 🚀 *Let's build something useful together!*
 
