@@ -170,24 +170,6 @@ A machine learning application that predicts **diabetes risk based on user-provi
 
 ---
 
-# 🌱 Currently Learning
-
-<div align="center">
-
-### 🐍 Python &nbsp; • &nbsp; 🧩 DSA &nbsp; • &nbsp; 🌐 Full Stack &nbsp; • &nbsp; 🤖 Machine Learning &nbsp; • &nbsp; ☁️ Cloud
-
-</div>
-
-### 🎯 Current Focus
-
-- 🐍 Improving Python and problem-solving skills
-- 🧩 Strengthening Data Structures & Algorithms
-- 🌐 Building full-stack web applications
-- 🤖 Deepening Machine Learning knowledge
-- ☁️ Exploring deployment and cloud technologies
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
