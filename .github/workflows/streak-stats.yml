@@ -2,13 +2,14 @@ name: Update Streak Stats
 
 on:
   schedule:
+    # Every day at 9:00 AM IST
     - cron: "30 3 * * *"
+
+  workflow_dispatch:
 
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
-
-  workflow_dispatch:
 
 concurrency:
   group: profile-stats-update
@@ -22,7 +23,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
@@ -33,7 +33,7 @@ jobs:
           git fetch origin main
           git rebase origin/main
 
-      - name: Generate streak stats
+      - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
