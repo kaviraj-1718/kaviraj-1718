@@ -2,7 +2,7 @@
 
 # 👋 Hiii, I'm **Kaviraj K R**
 
-### 💻 Software Developer | 🐍 Python | 🌐 Web Development | 🤖 Machine Learning
+### 🐍 Python | 🌐 Web Development | 🤖 Machine Learning
 
 <p>
   <a href="https://github.com/kaviraj-1718">
