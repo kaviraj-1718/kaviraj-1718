@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Kaviraj K R**
+# 👋 Hiii, I'm **Kaviraj K R**
 
 ### 💻 Software Developer | 🐍 Python | 🌐 Web Development | 🤖 Machine Learning
 
