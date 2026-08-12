@@ -96,8 +96,6 @@ A full-stack **Learning Management System** designed to manage online learning w
 - 👥 User permission management
 - 📊 Responsive dashboards
 - 💻 Full-stack MERN architecture
-- 🧑‍💻 Real-time coding practice
-- 🛡️ Plagiarism detection functionality
 
 ### 🛠️ Tech Stack
 
